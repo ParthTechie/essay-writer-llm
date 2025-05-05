@@ -22,17 +22,17 @@ essay_writer_project/
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/YourUsername/essay-writer-llm.git
-   cd essay-writer-llm
+   - git clone https://github.com/YourUsername/essay-writer-llm.git
+   - cd essay-writer-llm
 
 2. Install dependencies:
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 
 3. Create a `.env` file with your Groq API key:
-   GROQ_API_KEY=your_api_key_here
+   - GROQ_API_KEY=your_api_key_here
 
 ## Usage
 
 4. Run the Streamlit application:
-  streamlit run app.py
+   - streamlit run app.py
 
