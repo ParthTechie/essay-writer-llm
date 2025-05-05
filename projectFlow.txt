@@ -1,0 +1,25 @@
+essay_writer_project/
+│
+├── config/
+│   └── settings.py      # Configuration settings
+│
+├── models/
+│   ├── __init__.py
+│   ├── simple.py        # Simple essay generator
+|
+│
+├── utils/
+│   ├── __init__.py
+│   └── helpers.py       # Utility functions
+│
+├── api/
+│   ├── __init__.py
+│   └── routes.py        # API endpoints if using Flask
+│
+├── web/
+│   ├── __init__.py
+│   └── app.py           # Web interface using Streamlit
+│
+├── .env                 # Environment variables (API keys)
+├── requirements.txt     # Project dependencies
+└── main.py              # Main entry point
