@@ -12,12 +12,12 @@ An AI-powered essay generator using Groq's LLM API.
 ## Project Structure
 
 essay_writer_project/
-│
-├── config/            # Configuration settings
-├── models/            # LLM essay generation models
-├── utils/             # Helper utilities
-├── app.py             # Streamlit application
-└── requirements.txt   # Project dependencies
+
+- config/            # Configuration settings
+- models/            # LLM essay generation models
+- utils/             # Helper utilities
+- app.py             # Streamlit application
+- requirements.txt   # Project dependencies
 
 ## Installation
 
